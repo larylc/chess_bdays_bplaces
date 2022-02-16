@@ -1,0 +1,13 @@
+name: "Chess Birthdays"
+navbar:
+  title: "Chess Birthdays"
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Other Projects"
+      href: https://larylc.github.io/Independent-Projects-/index.html
+  output: 
+    html_document:
+      theme: cosmo

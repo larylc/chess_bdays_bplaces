@@ -1,0 +1,26 @@
+---
+title: "About"
+output: 
+  rmdformats::html_clean
+  
+---
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+h1.title {
+  margin-top: 100px;
+  font-weight: bold;
+}
+
+h1, h2, h3, body {
+  font-family: 'Libre Baskerville',  serif;
+}
+
+</style>
+
+
+This project was originally built into my [independent projects website](https://larylc.github.io/Independent-Projects-/index.html). However, because of its size and web-scraping methods, it became too difficult to consistently maintain in the projects website. So now this project has its own website.
+
+If you are interested in seeing my other projects click [here](https://larylc.github.io/Independent-Projects-/index.html).
